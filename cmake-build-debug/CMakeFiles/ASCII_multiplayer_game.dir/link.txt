@@ -1,0 +1,3 @@
+"E:\CLion\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ASCII_multiplayer_game.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\ASCII_multiplayer_game.dir/objects.a @CMakeFiles\ASCII_multiplayer_game.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\ASCII_multiplayer_game.dir/objects.a -Wl,--no-whole-archive  -o ASCII_multiplayer_game.exe -Wl,--out-implib,libASCII_multiplayer_game.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ASCII_multiplayer_game.dir\linklibs.rsp
